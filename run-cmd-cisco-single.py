@@ -1,7 +1,7 @@
 from netmiko import ConnectHandler
 
 platform = 'cisco_ios'
-username = 'javed'
+username = 'cisco'
 password = 'cisco'
 host = '10.0.10.100'
 interface = 'Ethernet0/0'
